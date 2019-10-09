@@ -258,3 +258,9 @@ public class UserGUI : MonoBehaviour{
 ~~~
 
 游戏图片以及视频、代码地址。
+
+![6](pic/6.png)
+
+视频地址：https://www.bilibili.com/video/av70686629/
+
+代码地址：https://github.com/ouzj5/3dgame/tree/master/hw5

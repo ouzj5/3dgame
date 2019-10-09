@@ -65,6 +65,7 @@ public class SceneController : UnitySingleton<SceneController>{
 	public void Reset() {							//重置函数
 		time = 0; timeInterval = 0; round = 0; trial = 0;
 		DiskProductor.Instance ().Reset ();
+		ScoreRecorder.Instance ().Reset ();
 	}
 	public int GetRoundIndex() {					//获得回合数
 		return round;
