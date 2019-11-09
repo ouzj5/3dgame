@@ -46,9 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\MyParticle.cs" />
-     <Compile Include="Assets\Script\ParticleHalo.cs" />
-     <Compile Include="Assets\Script\myHeart.cs" />
+     <Compile Include="Assets\Script\ParticleData.cs" />
+     <Compile Include="Assets\Script\ParticleMove.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
