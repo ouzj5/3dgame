@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AutoMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CharacterController.cs" Line="49" Column="31" />
+      <File FileName="Assets/Scripts/Actions.cs" Line="28" Column="36" />
+      <File FileName="Assets/Scripts/MoveToAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MyActionManager.cs" Line="14" Column="3" />
+      <File FileName="Assets/Scripts/MySceneController.cs" Line="60" Column="17" />
+      <File FileName="Assets/Scripts/SequenceAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SSActionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BoatController.cs" Line="29" Column="4" />
+      <File FileName="Assets/Scripts/Judge.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BoatModel.cs" Line="22" Column="37" />
+      <File FileName="Assets/Scripts/Director.cs" Line="15" Column="3" />
+      <File FileName="Assets/Scripts/CoastModel.cs" Line="80" Column="3" />
+      <File FileName="Assets/Scripts/CharacterModel.cs" Line="15" Column="17" />
+      <File FileName="Assets/Scripts/CoastController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ClickGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AutoMove.cs" Line="38" Column="23" />
+      <File FileName="Assets/Scripts/UserGUI.cs" Line="31" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
