@@ -153,3 +153,17 @@
 添加后的效果如下。
 
 ![](https://raw.githubusercontent.com/ouzj5/3dgame/master/hw11/pic/27.png)
+
+
+
+### 游戏图片以及视频、代码地址。
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20191225185141194.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTM1MDA2,size_16,color_FFFFFF,t_70)
+
+视频网站：https://www.bilibili.com/video/av80631937/
+
+或hw11.mov
+
+代码地址：https://github.com/ouzj5/3dgame/tree/master/hw11
+
+博客网址：https://blog.csdn.net/qq_40135006/article/details/103704181
